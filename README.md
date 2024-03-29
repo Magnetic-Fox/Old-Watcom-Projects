@@ -17,6 +17,10 @@ The codes provided here were made to compile using Open Watcom IDE, which is qui
 It's possible that they would compile using old Microsoft compilers, but I haven't tested it. It's best to use Watcom for them.
 In fact, these projects are heavily tied to Watcom coding style, so I think there might be serious problems with compiling them outside such environment.
 
+## Additional information
+
+The codes provided here are very old - there are yet from 2019 year. I was a bit different back then. ;) Please don't take it much seriously, when You decide to read some of the texts included in those very old programs - I think I was thinking like a teenager back then. ;)
+
 ## Disclaimer
 
 I've made much effort to provide here working and checked codes with hope it will be useful.
