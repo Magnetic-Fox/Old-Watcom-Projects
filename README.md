@@ -1,15 +1,15 @@
 # Old Watcom Projects (16-bit)
 
-This repository contains some of my old Watcom projects from 2019 year, which are ugly written. The purpose of this repository is to archive them here on GitHub.
+This repository contains some of my old Watcom projects from 2019 year, which were ugly written. The purpose of this repository is to archive them here on GitHub.
 
 ## What is included in this repo?
 
-Four most interesting (after years) projects that deserved archiving on GitHub:
+Four most interesting projects I found on my old PC's drive image, that deserved archiving on GitHub:
 
-* `ASCIIConverter` (being simple 1250 ANSI to 852 ASCII converter),
-* `Charmap_DOS` (being simple charmap display),
-* `Eksperyment6` (meaning Experiment 6; being simple inline assembly experiment and sound generation program)
-* `FoxCodeConverter_DOS` (being my very simple encoding algorithm implementation).
+* `ASCIIConverter` (simple 1250 ANSI to 852 ASCII converter)
+* `Charmap_DOS` (simple charmap display)
+* `Eksperyment6` (meaning Experiment 6; simple inline assembly experiment and sound generation program)
+* `FoxCodeConverter_DOS` (my very simple encoding algorithm implementation)
 
 ## What to use to compile this codes?
 
